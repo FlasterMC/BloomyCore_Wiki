@@ -6,9 +6,5 @@
 <h3 align="center">
   Основной плагин Bloomy с большим количеством различных механик
   <br/>
-  Плагин разработан <img src="https://github.com/FlasterMC/BloomyCore/blob/master/image/Flaster_avatar.png" height=16> _Flaster (FlasterMC)
-</h3>
-
-<h3 align="center">
-[WIKI](https://github.com/FlasterMC/BloomyCore_Wiki/wiki)
+  Плагин разработан <img src="https://github.com/FlasterMC/BloomyCore/blob/master/image/Flaster_avatar.png" height=16> _Flaster (FlasterMC) [WIKI](https://github.com/FlasterMC/BloomyCore_Wiki/wiki)
 </h3>
