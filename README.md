@@ -1,4 +1,5 @@
-<img src="https://github.com/FlasterMC/BloomyCore/blob/master/image/bloomy_logo.png" height=38 alt="Bloomy" />
+<h1 align="center">
+  <img src="https://github.com/FlasterMC/BloomyCore/blob/master/image/bloomy_logo.png" height=38 alt="Bloomy" />
   BloomyCore
 </h1>
 
