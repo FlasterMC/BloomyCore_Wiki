@@ -8,3 +8,5 @@
   <br/>
   Плагин разработан <img src="https://github.com/FlasterMC/BloomyCore/blob/master/image/Flaster_avatar.png" height=16> _Flaster (FlasterMC)
 </h3>
+
+[WIKI](https://github.com/FlasterMC/BloomyCore_Wiki/wiki)
